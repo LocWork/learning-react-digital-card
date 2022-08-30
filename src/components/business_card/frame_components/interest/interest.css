@@ -1,0 +1,21 @@
+.interestContainer{
+    display: inline-block;
+    text-align: left;
+    color: #FFFFFF;
+    width: 80%;
+    height: 12%;
+    margin-left: 5%;
+    margin-right: 5%;
+}
+
+.interestContainer > h3{
+    margin-top: 2px;
+    margin-bottom: 2px;
+    font-size: 15px;
+}
+
+.interestContainer > p {
+    margin-top: 2px;
+    margin-bottom: 2px;
+    font-size: 15px;
+}

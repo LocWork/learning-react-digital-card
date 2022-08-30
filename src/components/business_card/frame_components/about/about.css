@@ -1,0 +1,22 @@
+.aboutContainer{
+    display: inline-block;
+    text-align: left;
+    color: #FFFFFF;
+    width: 80%;
+    height: 15%;
+    margin-left: 5%;
+    margin-right: 5%;
+    margin-bottom: 2px;
+}
+
+.aboutContainer > h3{
+    margin-top: 2px;
+    margin-bottom: 2px;
+    font-size: 15px;
+}
+
+.aboutContainer > p {
+    margin-top: 2px;
+    margin-bottom: 2px;
+    font-size: 15px;
+}
